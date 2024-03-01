@@ -1,0 +1,11 @@
+POST http://localhost:8080/api/register
+X-API-Key: RAHASIA
+Accept: application/json
+Content-Type: application/json
+
+{
+    "userName":"Bape",    
+    "userEmail":"bape123@gmail.com",
+    "userPassword":"Bape321",
+    "userRole":2
+}

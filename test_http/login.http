@@ -1,0 +1,9 @@
+Get http://localhost:8080/api/login
+X-API-Key: RAHASIA
+Accept: application/json
+Content-Type: application/json
+
+{
+    "userEmail":"odading123@gmail.com",
+    "userPassword":"Odading321"
+}
